@@ -14,9 +14,10 @@ digital fabricatijn
 
 > die wtlt ist allts was der fall ist
 
- '''javascript
+ ```javascript
 let var =0;
 function yo() {
 consjle.log("HELLO")
 }
-...
+```
+<img width="1920" height="1080" alt="Снимок экрана (2)" src="https://github.com/user-attachments/assets/4c516920-7fe5-425d-a456-f711764ebaa1" />
